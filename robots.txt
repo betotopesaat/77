@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Menentukan lokasi sitemap agar mudah dibaca Googlebot
+Sitemap: https://betotopesaat.github.io/77/sitemap.xml
